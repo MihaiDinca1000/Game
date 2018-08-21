@@ -1,2 +1,2 @@
-# Game
-A python program for rock-paper-scissor game
+# Games
+some Python Games with random generated numbers!
