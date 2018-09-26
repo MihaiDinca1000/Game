@@ -1,0 +1,15 @@
+1. List Comprehension || Python
+2. CSV files in || Python
+3. Sa faci un program care sa verifice daca un numar este prim
+4. Buls and cows in python
+https://www.practicepython.org/solution/2014/07/18/18-cows-and-bulls-solutions.html
+
+
+https://www.practicepython.org/solution/2014/02/15/02-odd-or-even-solutions.html
+
+
+stop = False
+
+while(not stop)
+
+stop = True

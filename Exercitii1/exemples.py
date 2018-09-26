@@ -1,0 +1,3 @@
+global boss
+
+type(boss)
